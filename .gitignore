@@ -1,0 +1,3 @@
+# Build artifacts
+exports/*.pdf
+.DS_Store
